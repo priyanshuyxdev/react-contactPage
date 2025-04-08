@@ -1,0 +1,14 @@
+
+.ch{
+    max-width: 975px;
+    margin: 0 auto;
+    padding: 30px ;
+}
+.ch h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.ch p{
+    font-weight: 500;
+}

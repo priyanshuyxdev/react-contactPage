@@ -1,0 +1,22 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 72px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.logo {
+  font-size: 1.5rem; 
+  font-weight: bold;
+}
+
+.nav ul {
+  display: flex;
+  gap: 1rem; 
+  cursor: pointer;
+  font-weight: 500; 
+  font-size: 1.2rem; 
+  list-style: none;
+}
