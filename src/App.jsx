@@ -8,8 +8,10 @@ const App = () => {
   return (
     <div>
       <Nav />
+      <main className="main_container">
       <CH />
       <Form />
+      </main>
 
     </div>
   )

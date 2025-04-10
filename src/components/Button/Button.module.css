@@ -1,0 +1,31 @@
+.primary_btn {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-flex; /* Use inline-flex for better alignment */
+    align-items: center; /* Vertically center items */
+    justify-content: center; /* Horizontally center items */
+    gap: 10px;
+    border: 1px solid black;
+    font-size: 16px;
+    line-height: 1; /* Ensure consistent line height */
+    min-width: 220px;
+    cursor: pointer;
+}
+.outline_btn {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-flex; /* Use inline-flex for better alignment */
+    align-items: center; /* Vertically center items */
+    justify-content: center; /* Horizontally center items */
+    gap: 10px;
+    border: 1px solid black;
+    font-size: 16px;
+    line-height: 1; /* Ensure consistent line height */
+    min-width: 220px;
+    width: 100%;
+    cursor: pointer;
+}

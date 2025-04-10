@@ -3,3 +3,45 @@
     max-width: 1000px;
     margin: 0 auto;
 }
+
+.contact_form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.top_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+.form_control{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   
+}
+.form_control input{
+    display: flex;
+    flex-direction: column;
+    
+    height: 30px;
+}
+
+.contact_form form{
+    display: flex;
+    flex-direction: column;
+    
+    gap: 20px;
+}
+
+.submit{
+    display: flex;
+}
+    
+.contact_img img{
+   height: 500px;
+   height: 450px;
+}
