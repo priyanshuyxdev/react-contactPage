@@ -36,16 +36,18 @@ To run this project locally, follow these steps:
 4.Start the development server
     npm run dev
 
-Project Structure
+Project- structure
+
 src/
 ├── components/
-│   ├── Nav/          # Navigation bar component
-│   ├── ContactHeader/ # Header section for the contact page
-│   ├── contactForm/   # Contact form component
-│   ├── Button/        # Reusable button component
-├── App.jsx           # Main application component
-├── main.jsx          # Entry point for the React app
-├── App.css           # Global styles
+│   ├── Nav/              # Navigation bar component
+│   ├── ContactHeader/    # Header section for the contact page
+│   ├── contactForm/      # Contact form component
+│   ├── Button/           # Reusable button component
+├── App.jsx               # Main application component
+├── main.jsx              # Entry point for the React app
+├── App.css               # Global styles
+
 
 
 How to Use
@@ -54,18 +56,21 @@ Contact Form: Users can fill out the form to submit their name, email, and messa
 Styling: The application uses a combination of Tailwind CSS and CSS Modules for styling.
 
 
-Learnings
-This project helped me learn and implement the following:
+ Learnings
 
-Building reusable React components.
-Managing state with React hooks like useState.
-Styling components using CSS Modules for scoped styles.
-Using Tailwind CSS for utility-first styling.
-Handling form submissions and dynamically displaying data.
-Future Enhancements
-Add form validation for better user experience.
-Integrate a backend API for storing submitted data.
-Improve accessibility for better usability.
+This project helped me learn and implement:
+
+    Building reusable React components
+
+    Managing state with React Hooks (useState)
+
+    Styling using CSS Modules for scoped styles
+
+    Utility-first styling with Tailwind CSS
+
+    Handling form submissions and displaying dynamic data
+
+    
 License
 This project is licensed under the MIT License.
 
